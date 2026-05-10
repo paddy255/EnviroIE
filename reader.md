@@ -1,4 +1,4 @@
-#EnviroIE 
+EnviroIE 
 
 Natural language querying of Irish environmental data, powered by Spring AI and local LLM
 
