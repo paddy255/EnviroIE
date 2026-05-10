@@ -1,18 +1,8 @@
-EnviroIE 🌿
-Project Scope & Architecture Document
-Natural language querying of Irish environmental data, powered by Spring AI and local LLMs
-1. Project Overview
-Field
-Detail
-Project Name
-EnviroIE (Environment Ireland)
-Repository
-github.com/paddy255/EnviroIE
-Author
-Patrick
-Status
-Scoping — May 2026
+#EnviroIE 
 
+Natural language querying of Irish environmental data, powered by Spring AI and local LLM
+
+1. Project Overview
 
 EnviroIE is a Spring AI powered RAG chatbot that answers natural language questions about Irish environmental data, running on a local Ollama model to minimise carbon footprint. It represents a unique intersection of enterprise Java architecture, agentic AI, and environmental data science.
 
